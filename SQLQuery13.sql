@@ -1,0 +1,1 @@
+GRANT SELECT ON Macy.OrderDetails TO Management;

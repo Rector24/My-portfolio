@@ -1,0 +1,3 @@
+CREATE ROLE Management;
+CREATE ROLE Staff;
+GO
