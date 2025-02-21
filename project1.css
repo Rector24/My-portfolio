@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #22f307;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #0779e4 3px solid;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+}
+
+#search-section {
+    padding: 20px;
+    text-align: center;
+}
+
+#search-bar {
+    width: 60%;
+    padding: 10px;
+}
+
+#search-button {
+    padding: 10px 20px;
+    background: #0084ff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#recipe-list, #recipe-details {
+    margin: 20px 0;
+}
+
+.recipe {
+    background: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+}
+
+.recipe:hover {
+    background: #f1f1f1;
+}
+
+.purchased {
+    text-decoration: line-through;
+    color: grey;
+}
