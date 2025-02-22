@@ -1,0 +1,7 @@
+C:\Users\Moreb\source\repos\Programming project\bin\Debug\Programming project.exe.config
+C:\Users\Moreb\source\repos\Programming project\bin\Debug\Programming project.exe
+C:\Users\Moreb\source\repos\Programming project\bin\Debug\Programming project.pdb
+C:\Users\Moreb\source\repos\Programming project\obj\Debug\Programming project.csproj.AssemblyReference.cache
+C:\Users\Moreb\source\repos\Programming project\obj\Debug\Programming project.csproj.CoreCompileInputs.cache
+C:\Users\Moreb\source\repos\Programming project\obj\Debug\Programming project.exe
+C:\Users\Moreb\source\repos\Programming project\obj\Debug\Programming project.pdb
