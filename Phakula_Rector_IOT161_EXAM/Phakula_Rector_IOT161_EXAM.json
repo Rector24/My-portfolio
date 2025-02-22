@@ -1,0 +1,54 @@
+[
+    {
+        "id": "589d800157f9c0ba",
+        "type": "mqtt in",
+        "z": "845f3c3c2a2ea653",
+        "name": "",
+        "topic": "The door is now open",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "28c75e086fb76146",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 140,
+        "y": 360,
+        "wires": [
+            [
+                "9c1735d63494d70e"
+            ]
+        ]
+    },
+    {
+        "id": "28c75e086fb76146",
+        "type": "mqtt-broker",
+        "name": "localhost",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    }
+]
