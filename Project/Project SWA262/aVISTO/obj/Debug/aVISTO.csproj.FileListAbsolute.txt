@@ -1,0 +1,23 @@
+C:\Users\iamav\source\repos\aVISTO\aVISTO\bin\Debug\aVISTO.exe.config
+C:\Users\iamav\source\repos\aVISTO\aVISTO\bin\Debug\aVISTO.exe
+C:\Users\iamav\source\repos\aVISTO\aVISTO\bin\Debug\aVISTO.pdb
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.csproj.AssemblyReference.cache
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.Form1.resources
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.Login.resources
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.Properties.Resources.resources
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.csproj.GenerateResource.cache
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.csproj.CoreCompileInputs.cache
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.exe
+C:\Users\iamav\source\repos\aVISTO\aVISTO\obj\Debug\aVISTO.pdb
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\bin\Debug\aVISTO.exe.config
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\bin\Debug\aVISTO.exe
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\bin\Debug\aVISTO.pdb
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.csproj.AssemblyReference.cache
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.Form1.resources
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.Login.resources
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.Properties.Resources.resources
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.csproj.GenerateResource.cache
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.csproj.CoreCompileInputs.cache
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.exe
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.pdb
+C:\Users\iamav\source\repos\Not meant for us to do project app\aVISTO\obj\Debug\aVISTO.Home.resources

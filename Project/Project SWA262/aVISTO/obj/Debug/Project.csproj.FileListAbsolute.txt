@@ -1,0 +1,12 @@
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\bin\Debug\aVISTO.exe.config
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\bin\Debug\aVISTO.exe
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\bin\Debug\aVISTO.pdb
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\aVISTO.Form1.resources
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\aVISTO.Home.resources
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\aVISTO.Login.resources
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\aVISTO.Properties.Resources.resources
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\aVISTO.exe
+C:\Users\iamav\source\repos\Project SWA262\aVISTO\obj\Debug\aVISTO.pdb
