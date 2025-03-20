@@ -1,3 +1,3 @@
-CREATE ROLE Management;
-CREATE ROLE Staff;
-GO
+SELECT * FROM Users;
+
+SELECT * FROM Subjects;
