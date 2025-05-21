@@ -1,0 +1,14 @@
+C:\Users\Moreb\source\repos\Prac\bin\Debug\net8.0\Prac.exe
+C:\Users\Moreb\source\repos\Prac\bin\Debug\net8.0\Prac.deps.json
+C:\Users\Moreb\source\repos\Prac\bin\Debug\net8.0\Prac.runtimeconfig.json
+C:\Users\Moreb\source\repos\Prac\bin\Debug\net8.0\Prac.dll
+C:\Users\Moreb\source\repos\Prac\bin\Debug\net8.0\Prac.pdb
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\Prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\Prac.AssemblyInfoInputs.cache
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\Prac.AssemblyInfo.cs
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\Prac.csproj.CoreCompileInputs.cache
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\Prac.dll
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\refint\Prac.dll
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\Prac.pdb
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\Prac.genruntimeconfig.cache
+C:\Users\Moreb\source\repos\Prac\obj\Debug\net8.0\ref\Prac.dll
