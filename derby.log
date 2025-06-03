@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Jun 02 10:57:36 SAST 2025D001 : [0] The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217), [1] a816c00e-0197-2fdc-4e53-000006611150, [2] C:\Users\Moreb\OneDrive\Documents\NetBeansProjects\Management gui\employee_management_db, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@3f99bd52, [4] file:/C:/Program%20Files/Java/jdk-21/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.6+8-LTS-188
+user.dir=C:\Users\Moreb\OneDrive\Documents\NetBeansProjects\Management gui
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
