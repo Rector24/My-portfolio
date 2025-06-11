@@ -1,0 +1,115 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #1a2a1a;
+    color: #e0f0e0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: none;
+    overflow-x: hidden;
+}
+
+.content {
+    text-align: center;
+    padding: 2rem;
+    max-width: 800px;
+}
+
+.interactive-btn {
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #4a7c59, #3a5a40);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    font-size: 1rem;
+    margin: 1rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.interactive-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.interactive-link {
+    color: #a3b18a;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+.interactive-link:hover {
+    color: #dad7cd;
+    transform: scale(1.05);
+}
+
+/* Custom Cursor Styles */
+.cursor {
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    mix-blend-mode: difference;
+}
+
+.cursor-main {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #a3b18a;
+    transition: width 0.2s, height 0.2s, background-color 0.2s;
+}
+
+.cursor-follower {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #588157;
+    border-radius: 50%;
+    transition: all 0.4s ease-out;
+}
+
+/* Active states */
+.cursor-main.active {
+    width: 18px;
+    height: 18px;
+    background-color: #d4a59a;
+}
+
+.cursor-follower.active {
+    width: 60px;
+    height: 60px;
+    border-color: #d4a59a;
+    background-color: rgba(212, 165, 154, 0.2);
+}
+
+.cursor-main.click {
+    width: 15px;
+    height: 15px;
+    background-color: #bc6c25;
+}
+
+.cursor-follower.click {
+    width: 70px;
+    height: 70px;
+    border-color: #bc6c25;
+    background-color: rgba(188, 108, 37, 0.1);
+}
+
+/* Particle effects */
+.particle {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #a3b18a;
+    pointer-events: none;
+    z-index: 9998;
+}
